@@ -1,6 +1,6 @@
-## Machine learning Algorithms Basics
+# Machine learning Algorithms Basics
 
-# Requirements for implementation:
+## Requirements for implementation:
 * scikit-learn
 * pandas
 * six
@@ -9,3 +9,8 @@
 * numpy
 * matplotlib
 * seaborn
+
+# 1. Supervised Learning
+# 2. Unsupervised Learning
+# 3. Exploratory Data Analysis
+# 4. Decision Tree Learning
