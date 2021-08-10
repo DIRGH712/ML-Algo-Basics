@@ -1,11 +1,11 @@
-# Machine learning Algorithms Basics
+## Machine learning Algorithms Basics
 
-#Requirements for implementation:
-1. scikit-learn
+# Requirements for implementation:
+* scikit-learn
 * pandas
 * six
 * IPython
 * pydotplus
-*numpy
+* numpy
 * matplotlib
 * seaborn
