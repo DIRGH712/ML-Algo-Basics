@@ -1,4 +1,4 @@
-# Machine learning Algorithms Basics
+# 🤖 Machine learning Algorithms Basics
 
 ## Requirements for implementation:
 * scikit-learn
